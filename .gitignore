@@ -1,0 +1,4 @@
+node_modules
+.env
+src/codigos.js
+src/conexao.js
